@@ -1,0 +1,22 @@
+CADASTRO DE MINAS PARALISADAS E ABANDONADAS NO ESTADO DE MINAS GERAIS - 2016
+
+Sistema de Coordenadas Geográficas 
+Datum WGS84
+Escala: não informada
+Fonte: Fundação Estadual do Meio Ambiente - FEAM (2016)
+
+NOTA TÉCNICA
+"A Fundação Estadual de Meio Ambiente (Feam), com o intuito de aprimorar os procedimentos de reabilitação de áreas degradadas e fechamento de mina, disponibiliza o I ‘Cadastro de Minas Paralisadas e Abandonadas no Estado de Minas Gerais – 2016’. Este levantamento é pioneiro no Brasil e foi desenvolvido a partir das diretrizes da Deliberação Normativa (DN) do Conselho Estadual de Política Ambiental (Copam) nº 127, de 27 de novembro de 2008, que trata sobre o fechamento da atividade minerária.
+
+O estudo aborda a situação de 400 minas das mais diversas tipologias, desde lavras garimpeiras até grandes empreendimentos. O Cadastro traz informações sobre as áreas impactadas com uma análise do risco ambiental. As informações dos empreendimentos foram consolidadas em fichas que contém informações das minas cadastradas.
+
+Com a publicação deste cadastro, a Feam poderá aprimorar o acompanhamento das minerações no Estado, incluindo um maior diálogo com outros órgãos públicos, como o DNPM, buscando evitar o surgimento de áreas abandonadas ou áreas que configurem risco ao meio ambiente e à saúde humana. Além disso, o cadastro irá subsidiar a identificação dos responsáveis pela degradação ambiental e o cumprimento das obrigações legais visando à reabilitação das áreas degradadas." (FEAM, 2016)
+
+
+Arquivo original e informações disponíveis para download em:
+http://www.feam.br/qualidade-do-solo/reabilitacao-de-areas-degradadas 
+(Acesso em abril de 2016)
+
+Responsável Instituto Pristino: Iara Campos 
+atlasdigital.pristino@gmail.com.br
+
